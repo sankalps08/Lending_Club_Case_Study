@@ -1,0 +1,8 @@
+# Ignore Jupyter notebook checkpoints  
+.ipynb_checkpoints/  
+
+# Ignore macOS DS Store files  
+.DS_Store/
+
+#Ignore stylelintignore file, added this file because readme.md was treated Markdown content as CSS by Stylelint.
+.stylelintignore
