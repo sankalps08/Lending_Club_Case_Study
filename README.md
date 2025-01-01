@@ -1,4 +1,3 @@
-
 # Loan Default Risk Analysis 📊
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -99,3 +98,4 @@ Created by [@Sankalps08] - feel free to contact me!
 
 ---
 *Note: This project was completed as part of an advanced data analysis study focusing on risk analytics in banking.*
+
